@@ -1,0 +1,13 @@
+*{
+    background-color: rgb(194, 217, 232);
+}
+div{
+    padding: 20px;
+    margin: 20px;
+    border: coral 3px solid;
+}
+
+nav ul li{
+   display: inline; 
+   margin: 10px;
+}
